@@ -10,9 +10,9 @@
 
 #### Candidates
 
-+ [Anthony Shull] (https://github.com/phillysocialists/congress-2015/candidates/AnthonyShull.md)
-+ [Ariel Diliberto] (https://github.com/phillysocialists/congress-2015/candidates/ArielDiliberto.md)
-+ [Brandon Slattery] (https://github.com/phillysocialists/congress-2015/candidates/BrandonSlattery.md)
-+ [David Thompson] (https://github.com/phillysocialists/congress-2015/candidates/DavidThompson.md)
-+ [Melissa Elfont] (https://github.com/phillysocialists/congress-2015/candidates/MelissaElfont.md)
-+ [Tim Horras] (https://github.com/phillysocialists/congress-2015/candidates/TimHorras.md)
++ [Anthony Shull] (https://github.com/phillysocialists/congress-2015/blob/master/candidates/AnthonyShull.md)
++ [Ariel Diliberto] (https://github.com/phillysocialists/congress-2015/blob/master/candidates/ArielDiliberto.md)
++ [Brandon Slattery] (https://github.com/phillysocialists/congress-2015/blob/master/candidates/BrandonSlattery.md)
++ [David Thompson] (https://github.com/phillysocialists/congress-2015/blob/master/candidates/DavidThompson.md)
++ [Melissa Elfont] (https://github.com/phillysocialists/congress-2015/blob/master/candidates/MelissaElfont.md)
++ [Tim Horras] (https://github.com/phillysocialists/congress-2015/blob/master/candidates/TimHorras.md)
