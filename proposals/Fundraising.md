@@ -1,12 +1,14 @@
 #### 2015 Fundraising Plan
 
+##### Passed with 25 Y and 0 N
+
 **Background**
 
 Previously, Tim was given a stipend of $200/month for fundraising activity with the goal of signing up 20 dues­paying members. As of January 2nd, he has been able to sign up five new members for a total of $60/month. There are a number of other people who have verbally committed but have yet to sign up, and many more he has yet to ask. He feels confident that he can continue to approach individuals with some success on a similar timeline (5 dues­paying members per two months) He has prepared an Indiegogo campaign that is ready to roll out immediately, pending approval by the Congress. Perks will include newly-designed t­shirts, hoodies, posters, and original art.
 
 **Proposal**
 
-1. Philly Socialists will launch an Annual Fundraising Drive immediately after approval from the Congress. The goal will be to raise between $10,000 to $12,000 by the end of January.
+1. Philly Socialists will launch an Annual Fundraising Drive immediately after approval from the Congress. The goal will be to raise between $10,000 to $12,000 by the end of February.
 
 2. This money will mainly be used to fund stipends to two (2) organizers for $400 a month per organizer over the course of one year (Feb 1, 2015 to Jan 1, 2016).
 
@@ -14,7 +16,7 @@ Previously, Tim was given a stipend of $200/month for fundraising activity with 
 
 4. At present, proposed organizers to receive stipends are Tim and David Thompson.
 
-5. Fundraising goals (due by the end of February) are as follows:
+5. Fundraising goals are as follows:
 
 + Secure two (2) one­time donations of over $1,000 each
 + Secure five (5) one­time donations of approx. $500 each, for a total of $2,500
