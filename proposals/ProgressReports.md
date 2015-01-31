@@ -11,3 +11,6 @@ Central Committee reports will include, at minimum, a statement of finances, mem
 Autonomous and affinity group reports should reflect their progress on achieving the goals mandated for them by the Congress.
 
 Should the creation of the SPP listserv be approved by the Congress, the reports will be posted to the SPP listserv. Should the SPP listserv not be approved by the Congress, the reports will be posted to the Theory listserv.
+
+**Edits**
+CC financial reports are quarterly. Reports on votes will be after every meeting.
