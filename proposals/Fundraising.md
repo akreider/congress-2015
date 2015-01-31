@@ -8,7 +8,7 @@ Previously, Tim was given a stipend of $200/month for fundraising activity with 
 
 1. Philly Socialists will launch an Annual Fundraising Drive immediately after approval from the Congress. The goal will be to raise between $10,000 to $12,000 by the end of January.
 
-2. This money will mainly be used to fund stipends to two (2) organizers for $400 a month over the course of one year (Jan 1, 2015 to Jan 1, 2016).
+2. This money will mainly be used to fund stipends to two (2) organizers for $400 a month over the course of one year (Feb 1, 2015 to Jan 1, 2016).
 
 3. Additional money will allow us to roll out a third organizer later in the year if a qualified candidate emerges at that time.
 
