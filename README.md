@@ -10,7 +10,7 @@
 
 **Structure & media strategy -- 10am - noon**
 
-[Fundraising & organizer stipend proposal] (https://github.com/phillysocialists/congress-2015/blob/master/proposals/) -- Tim
+[Fundraising & organizer stipend proposal] (https://github.com/phillysocialists/congress-2015/blob/master/proposals/Fundraising.md) -- Tim
 
 Central Committee proposal -- Zach
 
@@ -18,9 +18,9 @@ Branch proposal -- Aaron
 
 Media Proposal -- Aaron
 
-Monthly Progress Reports from Committees, Branches, and Groups -- David
+[Monthly Progress Reports from Committees, Branches, and Groups] (https://github.com/phillysocialists/congress-2015/blob/master/proposals/ProgressReports.md) -- David
 
-Strategy/Policy/Projects Listserv -- David
+[Strategy/Policy/Projects Listserv] (https://github.com/phillysocialists/congress-2015/blob/master/proposals/Listserv.md) -- David
 
 Lunch -- Noon - 1pm
 
@@ -30,7 +30,7 @@ Building Power by Organizing the Unorganized proposal -- Aaron
 
 Arbiters and Department of Social Services Proposal -- Tim
 
-Political Education and Leadership Development Proposal -- Tim
+[Political Education and Leadership Development Proposal] -- Tim
 
 Local, Regional, National and International Relations Proposal -- Tim
 
