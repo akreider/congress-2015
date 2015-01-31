@@ -10,7 +10,7 @@
 
 **Structure & media strategy -- 10am - noon**
 
-Fundraising & organizer stipend proposal -- Tim
+[Fundraising & organizer stipend proposal] (https://github.com/phillysocialists/congress-2015/blob/master/proposals/) -- Tim
 
 Central Committee proposal -- Zach
 
