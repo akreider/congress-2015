@@ -9,11 +9,7 @@ Voting methods are inherently flawed. They are easy to manipulate. Worse, they c
 
 Let's say you have six candidates, five positions, and 30 voters. If all votes are distributed evenly, you could end up with all six candidates getting 25 votes. There is no way to force a run-off. You're stuck.
 
-Now, imagine that one of the six candidates is Pythagoras. He and his group of four followers realize that they can increase the power of their votes simply by withholding votes. Normally, with 30 people and five positions you would have 150 total votes. But, the Pythagoreans decide that they will only vote for Pythagoras. Removing all of their votes from the pool for the time being, and again distributing votes evenly, each candidate gets 20 votes with a remainder of five.
-
-We'll distribute those five to Pythagoras's opponents so that they each have 21 votes and he only has 20. But, when we then add in the five Pythagoreans' votes, he jumps to 25 votes and escapes a run-off. If they had used all of their votes, and they were distributed evenly, we would again have the situation where everyone would have 25 votes.
-
-To give another example, let's say the votes are not evenly distributed. Thirty voters are electing three persons out of a pool of five candidates. The Pythagoreans haven't voted yet. So, the breakdown of votes is 19, 17, 16, 12, and 11 with Pythagoras in last place. If he and his four conspirators vote only for him, he moves from 11 to 16 votes and wins in the election. If, on the other hand, they have to use all of their votes, there is no way for him to avoid a run-off. 
+Now, let's give an example in which the votes are not evenly distributed. Thirty voters are electing three persons out of a pool of five candidates. One candidate is Pythagoras. Because of his advanced understanding of math, he knows that he can increase his chances of winning by minimizing the total number of votes. He has convinced four followers to vote for himSo, Without their votes the breakdown of votes is 19, 17, 16, 12, and 11 with Pythagoras in last place. If he and his four conspirators vote only for him, he moves from 11 to 16 votes and wins in the election. If, on the other hand, they have to use all of their votes, there is no way for him to avoid a run-off. 
 
 ##### Solution
 

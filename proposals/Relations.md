@@ -1,0 +1,3 @@
+**Local, Regional, National and International Relations Proposal**
+
+This working group, functioning under the direction of the General Assembly and the Central Committee! Will seek to build relationships with allies. Special emphasis will be placed on establishing closer connections with the Kentucky Workers League and the Louisville Socialists., as well as investigating other regional opportunities.

@@ -1,0 +1,15 @@
+**Strategy, Policy, and Projects (SPP) Listserv**
+
+The high volume of email traffic on the Theory listserv reflects its serving disparate purposes. At present, it is home to discussions about political/social/economic/organizational theory, current events, and miscellaneous other issues. It is also home to discussions about Philly Socialists’ strategy and policies. As Philly Socialists expands, a venue for organization­wide discussion of internal issues is increasingly necessary, and the Theory listserv has become that venue by default.
+
+However, because the bulk of conversations on the Theory listserv are about topics irrelevant to the organizational direction of Philly Socialists, one must keep a vigilant watch over a steady stream of email conversations in order to be aware that someone has proposed something that is relevant to the organizational direction of Philly Socialists. This creates an unnecessary barrier to participation for members without the time or inclination to keep up to date on the opinions of members on miscellaneous topics. It is conceivable that this is the reason why participants in discussions about policy are often drawn from the same pool as those who frequently participate in discussions about theory­­a pool that is not reflective of the demographic make­up of the organization nor of those who dedicate the most work to the organization.
+
+At any rate, members should not have to keep up with theoretical discussions in order to keep up with the proposal of new policies, projects, or strategies for the organization. Members should not be made to feel as though proficiency in theoretical concepts is a prerequisite for participating in conversations about the direction of Philly Socialists.
+
+Therefore, discussions about organizational policies, projects, and strategy will take place within a new Strategy, Policy, and Projects (SPP) listserv. Should the proposal for monthly progress reports be approved, those reports will also be posted to this listserv. In order to keep the forum confined to organizational policies, projects, and strategy, a moderator appointed by the Central Committee will have discretion to block the introduction of a new thread if the proposed thread is not germane. At that time, the moderator will be required to request the author of the thread revise or withdraw their email. If the author still wishes to introduce the thread, they may do so despite the moderator’s disagreement.
+
+All dues­paying members of Philly Socialists will be included in this forum unless they choose to opt out of it. Only dues­paying members will be admitted to the forum.
+
+The Theory listserv, admission to which will be determined the same way, will continue to serve as a catch­all for discussions about theory, current events, and miscellaneous other issues. The Leadership listserv will be discontinued.
+
+The SPP listserv may not be used as a substitute for decision­making processes required by the Constitution, nor may the results of its discussions be considered an adequate basis for reaching consensus on a proposal. The SPP listserv will be used for the exclusive purpose of discussion.
