@@ -12,7 +12,7 @@
 
 [Fundraising & organizer stipend proposal] (https://github.com/phillysocialists/congress-2015/blob/master/proposals/Fundraising.md) -- Tim
 
-Central Committee proposal -- Zach
+[Central Committee proposal] (https://github.com/phillysocialists/congress-2015/blob/master/proposals/CentralCommittee.md) -- Zach
 
 Branch proposal -- Aaron
 
